@@ -1,0 +1,15 @@
+a. �¿Quieinvento el sistema de control de version Git y por que?
+
+Git fue creado por Linus Torvalds con el objetivo de posibilitar la ramificación y el etiquetado como
+procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las
+etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios.
+
+b. ¿A quien pertenece actualmente Github y porque?
+
+Actualmente Github pertenece a Windows y fue adquirido por ellos por una similaritud de ideales de 
+trabajo con la herramienta.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Se pueden alterar ciertas cosas desde Github o desde VSCODE pero la pricncipal herramienta es el 
+bash.
