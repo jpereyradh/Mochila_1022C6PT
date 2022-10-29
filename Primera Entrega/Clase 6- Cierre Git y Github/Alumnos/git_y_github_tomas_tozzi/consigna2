@@ -1,0 +1,27 @@
+mkdir sirve para hacer directorios
+touch sirve para hacer documentos
+cd sirve para moverte por las carpetas, (cd ../ para subir un nivel)
+ls te muestra una lista de los documentos y carpetas que haya segun donde estes parado en el directorio
+ls -r te muestra una lista de las carpetas con sus contenidos
+git init inicia un repo
+git add (nombre del archivo) o . para trackear archivos
+git commit -m "" para generar un nuevo commit 
+pwd para saber donde estas ubicado
+mv renombrar archivos
+mv renombrar carpetas
+mv mover contenido 
+clear limpiar la terminal
+rm eleminar un archivo
+rmdir elemina una carpeta vacia
+rm -r elemina una carpeta(inlcusive con contenido)
+git remote -v para ver a que repositorio origin esta vinculado el main
+git remote add origin <link> para vincular un repo remoto a uno local
+git push -u origin main para hacer el primer push 
+git pull origin main para actualizar los datos del repo subido en github
+git push origin main para todos los push
+git clone <link> para clonar un repo subido en github
+git remote rm <nombre> para desvincular un repo remoto
+git branch para crear una nueva raiz
+git checkout <nombre de la branch> para moverte a otra raiz
+git checkout -b <nueva branch> para moverte a otra raiz(si existe),si no existe la crea y se mueve a esa raiz
+git branch  lista de raices 
