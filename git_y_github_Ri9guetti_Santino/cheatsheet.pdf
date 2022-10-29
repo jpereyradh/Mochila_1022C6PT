@@ -1,5 +1,4 @@
-Crear
-Clonar un repositorio existente
+Git clone: nos permite clonar un repositorio existente (github)
 Git branch: crea una rama paralela.
 Git init: inicializa un repositorio local
 Git add: pasa nuestro trabajo de working directory a la staging area
@@ -9,3 +8,5 @@ Git push: nos permite subir el contenido guardado anteriormente con el git add y
 commit a github.
 Git pull: nos permite actualizar nuestros archivos del proyecto en caso de que otras 
 personas hayan trabajado previamente en el
+Git status: nos permite ver el estado de nuestros archivos
+Git rm: nos permite eliminar el archivo del working directory
