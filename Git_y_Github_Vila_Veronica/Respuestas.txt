@@ -1,0 +1,6 @@
+a)Git es un proyecto de codigo abierto maduro y con un mantenimiento activo, que desarollo originalmente Linus Torvalds,
+ el famoso creador del kernel del sistema operativo linux, en 2005.Su propocito es para que varias personas trabajen
+  en el mismo proyecto. y lo que hace Git, es guardar cada vercion remodelado sin borrar ninguna actualizacion.
+ ya que deja añadido el nuevo con nombre de cada persona q realizo el cambio
+ b)el dueño actual es Microsoft.Para mayor manejo de dator
+ c)si,usando GUIs es uana interfas de usuario grafica ej:GitKraKen
