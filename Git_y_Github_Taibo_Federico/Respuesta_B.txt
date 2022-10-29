@@ -1,0 +1,4 @@
+Git Bush pertenece actualmente a Microsoft. 
+GitHub es una excelente herramienta para el trabajo en equipo. Cuando se trata de software o de un sitio web que necesita crearse juntos, por ejemplo, la plataforma en línea sin duda facilita la gestión de proyectos.
+
+Y esta herramienta también está disponible para empresas: es conocida como GitHub Enterprise. Allí, encontrarás una manera inteligente de administrar el trabajo de un equipo.
