@@ -1,0 +1,5 @@
+Git es creado por Linus Torvalds y se creo como un sistema de control 
+de versiones distribuido que registra las distintas versiones de un
+archivo (o conjunto de archivos). Le permite a los usuarios acceder, 
+comparar, actualizar, y distribuir cualquiera de las versiones 
+registradas en cualquier momento.
