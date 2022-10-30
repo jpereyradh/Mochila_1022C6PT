@@ -1,0 +1,23 @@
+A) ¿Quién inventó el sistema de control de versión Git y por qué?
+
+El sistema de control de versiones GIT, es un pruyecto de codigo abierto que desarrollo originalmente Linus Torvalds (Creador del kernel, del sistema operativo linuz en 2005).
+En 2005 la herramienta Bitkeeper (Que tambien era un sistema de control de versiones utilizada por linux) dejo de ser ofrecida de manera gratuita, esto hizo que la comunidad de desarrollo de linux se motivara a desarrollar su propia herramienta basada en los principios de Bitkeeper con el objetivo de que esta herrmienta tuviera:
+- Velocidad
+- Diseño sencilo
+- Gran soporte para desarrollo no lineal (Es decir que existan varias ramas paralelas a la principal)
+- Capaz de manejar grandes proyectos (Como el kernel de linux) eficientemente
+
+B) ¿A quién pertenece actualmente Github y por qué?
+
+Actualmente Github pertenece a la empresa fundada por Bill Gates, Microsoft.
+Microsoft Adquiere en 2018 a Github por 7.500 millones de dolares. Desde la asuncion de Satya Nadella, Actual CEO de microsoft, la corporacion adopto una estrategia nueva de negocios, mucho mas abierta y enfocada al mundo del software libre y a la integracion con otras plataformas y servicios. Esto se vio domestrado con la compra en 2016 de Xamarin (una plataforma que permite crear aplicaciones móviles que pueden funcionar en distintos sistemas, como iOS, Android y Windows) y posteriormente con la adquisicion de Github. 
+
+
+C)¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+No, esta esa la unica manera de trabajar con github. 
+si bien para crear archivos y repositorios de manera local no es necesaria la interfaz de comandos, para poder vincular (Y/o actualizar) el repositorio en la nube, debemos ejecutar una series de comandos que no es posible por la interfaz grafica, sino unicamente por la inerfaz de comandos, es decir la terminal.  
+
+
+
+
