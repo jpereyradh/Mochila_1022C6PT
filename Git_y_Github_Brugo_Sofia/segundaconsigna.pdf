@@ -1,0 +1,21 @@
+Terminal: 
+mkdir crea un directorio
+rm -r elimina un directorio y su contenido
+ls lista 
+cd cambia de directorio
+
+Git 
+git init inicia un repositorio local 
+git add . agrega todos los archivos al staging area en seguimiento
+git commit -m confirma los archivos y los envia al repositorio local
+
+Github
+git clone URL clona un repositorio remoto en nuestra computadora
+git push origin actualiza el repositorio remoto luego de cambios
+git remote add origin vincula un repositorio local con uno remoto
+git branch crea una rama
+git checkout cambia de branch 
+git pull trae el repositorio remoto ya vinculado y los cambios en el 
+git merce integra la rama con la rama main 
+git revert deshace los cambios hechos
+
