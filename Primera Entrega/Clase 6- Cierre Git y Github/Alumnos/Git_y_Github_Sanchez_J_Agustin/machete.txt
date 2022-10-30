@@ -1,0 +1,65 @@
+pwd
+ls
+cd →mv moverte de directorio a directorio
+mkdir → crear, carpeta o carpeta dentro de carpeta
+mv → modificar
+touch → crear archivos
+nano → escribir en archivos
+cat → leer lo que escribimos con nano
+rmdir → eliminar carpetas vacias
+rm -r
+../ → moverse a la direccion anterior o superior
+cd ../ moverse a al directorio anterior
+ls -r
+—------------------------------------------ GITHUB—---------------------------------------------------------------
+
+
+git init → crear repositorio local en la carpeta
+para hacer un repo en la nube se hace desde GITHUB
+
+git config user.name”juana” →  darle un nombre al dueño del repositorio, el nombre es con el que creaste tu cuenta de git.
+git config user.email”juanagustin.sanchez26@gmail.com” → darle mail dominio al repositorio
+a ambos se les agrega –global para que todos los repositorios esten a tu nombre y mail
+ls -a → ver archivos o carpetas ocultos, ahi va a aparecer el repositorio de git cuando lo creemos
+git add → agregar archivos a un repositorio
+git add . → agregar todos de una carpeta al repositorio automáticamente
+git status → ver el estado de tus commits
+
+
+PARA UNIR UN REPOSITORIO LOCAL AL REPOSITORIO DE GITHUB → git remote add origin (URL de el repositorio de github)
+
+git remote -v    → para probar que la union quedo bien
+
+ANTES DE SUBIR LOS ARCHIVOS A GITHUB TIENE QUE ESTAR TODO LO QUE VAYAS A SUBIR DENTRO DE UN COMMIT
+
+git push origin (main)→ decirle a git que vas a subir un commit al repositorio en la nube. (ORIGIN es el repositorio remoto para git, siempre hay que usar origin +)
+
+los commits se suelen hacer una vez agregados una serie de funcionalidades importantes al proyecto
+
+las ramas dentro de un repositorio son “COPIAS ALTERNATIVAS DENTRO DEL PROPIO REPOSITORIO”; una línea paralela donde podes agregar nuevas funcionalidades sin la necesidad de modificar la línea original
+
+
+
+PARA DESCARGAR LA ÚLTIMA VERSIÓN DE LO QUE SE TRABAJÓ EN UN REPOSITORIO REMOTO (GITHUB)
+
+git clone (URL del repositorio remoto) → crear una copia exacta de todos los archivos existentes dentro de un repositorio remoto
+
+git pull origin (main/ rama que quieras)→ actualizar los archivos de un repositorio ya clonado dentro de tu computadora
+
+
+RAMAS/BRANCH
+
+git branch → ver tus ramas dentro del repositorio
+
+git branch xxxxx  → hacer una rama nueva con xxxxx nombre
+
+git branch -d xxxxx → eliminar rama xxxxx. si hay cambios sin commitear no te deja eliminar.
+
+git branch -D xxxxx → elimina los cambios con o sin guardar
+
+git checkout  xxxxx → cambiar de rama a xxxxx
+
+si no te deja eliminar la branch tenes que o deshacer los cambios, forzarlo con -D o guardarlos con un commit
+
+git push origin xxxxx → subir rama al repositorio remoto
+git pull origin xxxxx → descargar rama al repositorio local
