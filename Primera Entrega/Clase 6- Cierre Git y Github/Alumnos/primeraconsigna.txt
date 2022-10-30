@@ -1,0 +1,16 @@
+¿Quién inventó el sistema de control de versión Git y por qué? El creador 
+de Linux creó Git el sistema de control de versiones para hacer un 
+proyecto  de código abierto que reemplace el existente que empezaba a ser  
+con suscripción porque en la creación de proyectos sirve tener un software 
+que almacene cambios de un archivo y permita editar en ramas. 
+
+¿A quién pertenece actualmente Github y por qué? "GitHub es una forja para 
+alojar proyectos utilizando el sistema de control de versiones Git." - 
+Wikipedia. "El 4 de junio de 2018, Microsoft compró GitHub por la cantidad 
+de 7500 millones de dólares." - Google. Github es un proyecto de código 
+abierto con código fuente que cualquiera puede inspeccionar, modificar y 
+mejorar entonces de alguna manera considero que pertenece a todos. 
+
+¿Hay otra forma que no sea la terminal para trabajar con Github? Si, la 
+otra forma para usar Github que no sea la terminal es desde la interfaz 
+gráfica en su página web. 
