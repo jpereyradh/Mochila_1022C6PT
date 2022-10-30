@@ -1,0 +1,10 @@
+Comandos mas utilizados
+
+Git init: Crea un nuevo repositorio local
+Git clone [URL del repositorio]: Clona un repositorio ya existente en la nube
+Git status: Nos da el estado de git en ese momento
+Git commit -m "Mensaje": Nos permite tomar una "foto" de nuestro codigo en ese momento.
+Git push: Nos pemite subir nuestro codigo a la nube.
+Git pull: Nos permite traer los cambios de la nube a nuestro repo local, una vez ya clonado.
+Git add [Archivo]: Pasa el archivo de "sin seguimiento" a "Seguimiento". Si hacemos Git add . pasa el total de los archivos.
+Git log: Nos ayuda  aexplorar el historial del repositorio de git.
