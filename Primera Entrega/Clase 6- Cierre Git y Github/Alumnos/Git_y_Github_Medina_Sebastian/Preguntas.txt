@@ -1,0 +1,3 @@
+A- Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+B- El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+C- Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado existen una gran variedad de interfaces de usuario con distintas capacidades.
