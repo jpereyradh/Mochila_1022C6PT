@@ -1,0 +1,13 @@
+Quien invento el sistema de control de versiones de Git y Git hub?
+El sistema de control de versiones fue creado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mante
+nimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de
+ computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+A quien le corresponde actualmente Git hub y porque?
+Git gub le corresponde  a Microsoft ya que la compro en en 2018
+
+Hay otra forma que no sea la terminal para trabajar con Git hub?
+Si, por ejemplo GitKraken.
+SmartGit.
+Git Cola.
+Aurees.
