@@ -1,0 +1,20 @@
+Comandos - Funcionalidad
+
+mkdir (crea un directorio)
+pwd (saber donde estoy posicionado)
+cd  (cambio de directorio)
+ls (listo lo que hay dentro de la posicion donde me encuentro)
+rm -r (borro un directorio y sus archivos)
+clear (limpio la consola)
+git config user.name (pongo mi usuario)
+git config user-email (configuro mi correo, con el que me registre en GitHub)
+git init (inicio el repositor local)
+git add (agrego archivos a mi repositorio)
+git commit (confirmo los archivos)
+git status (verifico el estado de mis archivos)
+git clone (para clonar un repositorio)
+git pull (actualizo el repositorio)
+git push origin main (subo mis archivos al repositorio remoto)
+git branch (creo una rama)
+git checkout "nombre_la_rama_nueva" (me cambio a la rama nueva)
+
