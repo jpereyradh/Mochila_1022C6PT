@@ -2,12 +2,36 @@ Terminal:
 mkdir crea un directorio
 rm -r elimina un directorio y su contenido
 ls lista 
+la -a lista los archivos incluyendo los ocultos
+ls -l muestra toda la informacion
+ls -R muestra las carpetas y los archivos que contienen
+more muestra el contenido de un archivo
+cat muestra el contenido de un archivo
+touch crea un archivo
+rm elimina un archivo
+rmdir elimina una carpeta vacia
+rm -r elimina una carpeta y su contenido
 cd cambia de directorio
+pwd print work directory
+mv renombra archivos y carpetas
+cp copia 
+cd .. sube un nivel de carpeta
 
 Git 
 git init inicia un repositorio local 
-git add . agrega todos los archivos al staging area en seguimiento
-git commit -m confirma los archivos y los envia al repositorio local
+
+git add . agrega todos los archivos al repositorio. Ahora están en 
+seguimiento
+
+git commit -m confirma los archivos al repositorio local (son 
+ahora el historial de cambios). Marca indeleble.
+ 
+git status da el estado de los archivos
+
+git config user. name configura el nombre de usuario
+git config user.email configura el mail del usuario
+git config --global user.name/email establece el nombre/mail de usuario 
+infinitamente 
 
 Github
 git clone URL clona un repositorio remoto en nuestra computadora
