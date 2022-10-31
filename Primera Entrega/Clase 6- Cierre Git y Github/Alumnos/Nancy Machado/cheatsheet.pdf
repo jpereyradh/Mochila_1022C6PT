@@ -1,0 +1,15 @@
+Git push: Comando para subir informacion a la nube
+Git clone: Comando para a mi pc informacion de la nube
+Git init: Comando para crear el working directory, staging area y el reposiorio local
+Git status: Comando que me da informacion de lo que estoy haciendo y en que estado estoy
+Git log: Comando que me da informacion de los commits
+Gite remote add origin: comando para vincular el repositorio local con el remoto
+Git push origin main: comando para subir informacion a la rama principal
+Git branch: Comando para crear una rama
+Git add .: Comando para agregar varios archivos juntos del working directory al staging area
+Git commit -m: Comando para pasar lo archivos del staging area al reposotorio local
+Git checkout: Comando para salir de la rama en la que estoy y pasarme a otra
+Git rm --cached: Comando para pasar un archivo del staging area al working directory
+Git ignore: Comando para ignorar cualquier orden que se le de a un archivo 
+Git rm -r: Comando para remover un directorio y los archivos que contiene
+Git rm: Comando para remover un archivo
