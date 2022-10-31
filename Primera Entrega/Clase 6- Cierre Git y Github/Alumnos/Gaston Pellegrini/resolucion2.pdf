@@ -1,0 +1,23 @@
+- $git clone + url ---> para clonar un repositorio de github a mi repo nlocal.
+- $git init ---> crear un nuevo repo local
+- $ls -a : listar todo incluso los archivos escondidos vinculados a github
+- rm -rf nombre   --> borra el directorio y todos los archviso que contiene en forma forzada
+- archivos nano: para guardar ctrl+x -- S para confirmar y sale.
+- git checkout -b nuevaBranch_nombre (crea una nueva branch y apunta a ella)
+- git branch nuevaBranch_nombre (crea una nueva branch)
+- git checkout nuevaBranch_nombre (cambia a una branch existente) - En este
+caso, el principal puntero HEAD está apuntando a la branch llamada
+nuevaBranch_nombre
+Establecer el usuario y el e-mail
+❏ git config --global user.name "nombre de usuario"
+❏ git config --global user.email email@email.com
+Verificar el estado de los archivos/directorios
+❏ git status (muestra el estado de los archivos en su repositorio)
+Añadir un archivo
+❏ git add nombre_archivo_directorio (archivo específico)
+❏ git add . / git add --all (todos los archivos)
+➔ Commitear un archivo/directorio
+❏ git commit nombre_archivo -m "mensaje del commit"
+➔ Remover un archivo o directorio
+❏ git rm archivo
+❏ git rm -r directorio (remueve el directorio y los archivos que contiene)
