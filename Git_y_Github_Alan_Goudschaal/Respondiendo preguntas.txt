@@ -1,6 +1,12 @@
 1- ¿Quien invento el sistema de control de version Git y porque?
-Linus Torvalds inventó el sistema de control de versiones Git.
-Lo inventó principalmente e permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git
+Linus Torvalds inventó el sistema de control de versiones Git. Lo inventó principalmente porque permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git en los cuales permite trabajar sobre un proyecto en simultáneo a diferentes programadores de todo el mundo. 
+
 2- ¿A quien pertenece actualmente Github y porque?
+Lo que significa la compra de Microsoft sobre GitHub:
+
+GitHub es un servicio muy interesante y popular entre los desarrolladores de software, quienes guardan y alojan sus proyectos de manera sencilla y práctica. Dada su filosofía centrada en el código abierto, la plataforma ofrece muchas posibilidades, aunque ha sido hasta ahora un enfoque totalmente contrario al negocio comercial de Microsoft de venta de licencias.
+
+Pero bajo la batuta de Satya Nadella, la veterana empresa tecnológica ha venido tocando otros palos, acercándose a tecnologías como la «nube», el «machine learning» y, ahora, los modelos de código abierto. La compañía, a su vez, necesita de nuevas formas de conectarse con la comunidad de desarrolladores. Y ahí entra perfectamente GitHub, una firma con sede en San Francisco y propietaria de una herramienta necesaria para estos profesionales.
 
 3- ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Hay tres servicios de alojamiento popular de Git: GitHub (propiedad de Microsoft), GitLab (propiedad de GitLab) y BitBucket (propiedad de Atlassian).
