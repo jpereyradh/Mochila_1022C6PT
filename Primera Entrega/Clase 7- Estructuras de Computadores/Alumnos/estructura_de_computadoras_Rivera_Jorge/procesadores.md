@@ -1,0 +1,21 @@
+Práctica comparativa
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.  
+Estamos confundidos debido a que no los etiqueto con nombres…
+Nuestro padre nos envió los siguientes procesadores:
+● Amd Ryzen 5 3600
+● Amd a8 9600
+● intel i3 3230
+¿Cuál es para cada uno?
+
+Le sugerimos a Matilda que utilice los procesadores de la siguiente manera. El Amd A8 9600 se lo recomendamos para su pequeño hermano Marcelo, el Intel i3 3230 para su hermano mayor y el Ryzen 5 3600 para Matilda.
+
+| Hermano | Requisito | Procesador |
+| ----------- | ----------- | ----------- |
+| Matilda | Cyberpunk 2077 | Amd Ryzen 5 3600 |
+| Marcelo | Office 2019 | Amd a8 9600 |
+| Mayor | Wondershare Filmora  | intel i3 3230 |
+
+
+
+
