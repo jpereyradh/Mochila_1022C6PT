@@ -1,0 +1,1 @@
+diseñado por linus torvalds git es un software de control de versiones
