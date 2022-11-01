@@ -12,4 +12,8 @@ git checkout= Trabajar en rama.
 git checkout main/origin= Volver a rama principal.
 touch = Crear archivo.
 nano= Editar archivo.
+git push origin/main= Subir actualizacion al repositorio remoto
+git clone = Clona reositorio remoto al repo local.
+git pull= Baja actualizacion al repositorio local.
+
 
