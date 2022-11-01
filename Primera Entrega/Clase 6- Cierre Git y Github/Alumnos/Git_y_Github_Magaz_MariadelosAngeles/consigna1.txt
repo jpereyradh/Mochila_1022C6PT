@@ -1,0 +1,8 @@
+a.	¿Quién inventó el sistema de control de versión Git y por qué?
+Linus Torvalds diseñó Git, un software de control de versiones. Lo hizo porque el DVCS de Bitkeeper, que era la herramienta que se utilizaba para el mantenimiento de versiones del kernel de Linux, dejo de ser gratuito.
+
+b.	¿A quién pertenece actualmente Github y por qué?
+El propietario de Github es Microsoft que lo compro en 2018. Lo hizo con el objetivo de hacerlo Open Source y así focalizarse en los desarrolladores y concentrarlos. Tiene un modelo de desarrollo de software libre. Esto quiere decir que los usuarios tienen la libertad de copiar, distribuir, estudiar, modificar y mejorar el software.
+
+c.	¿Hay otra forma que no sea la terminal para trabajar con Github?
+Se puede trabajar con Github utilizando apps como por ejemplo My Github.
