@@ -1,0 +1,15 @@
+cd = ir 
+./= volver 
+git init= Crear repositorio local
+git config username/email ""= inicio sesion github
+git remote add origin (url repositorio remoto)= agregar un repositorio remoto
+git clone (url repositorio remoto)= = descargar todos los archivos presentes de un repositorio remoto.
+git add = agrega todos los archivos.
+git status= seguimiento del estado de los archivos.
+git commit -m "nombra un commit" = commit .
+git branch= Crear rama.
+git checkout= Trabajar en rama.
+git checkout main/origin= Volver a rama principal.
+touch = Crear archivo.
+nano= Editar archivo.
+

@@ -1,0 +1,4 @@
+a. Linus Torvalds, crea git para llevar registro de los cambios en archivos de computadora
+ incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+b. Microsoft, por que lo compro.
+c. Desde la app de github y la linea de comando
