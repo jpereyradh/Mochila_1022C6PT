@@ -1,0 +1,70 @@
+Este seria el recordatorio de los comandos mas utilizados hasta el momento cada uno con una breve explicacion sobre que hace cada uno.
+
+Comandos:
+
+
+ls -l (Muestra toda la información de una carpeta: usuario, grupo, permisos, tamaño, fecha y hora de creación.)
+
+ls -t (comando para ver la lista de archivos y los ultimos modificados o trabajador)
+
+rm (elimina un archivo)
+
+rmdir (elimina una carpeta vacia)
+
+rm -r (elimina una carpeta y su contenido)
+
+more (muestra el contenido de un archivo)
+
+ls -a (muestra todos los archivos ocultos)
+
+mv (mueve archivos, renombra las carpetas (el nombre que le vamos a poner a nuestra carpeta no deberia existir))
+
+mv (mueve el contenido de carpeta1 a carpeta2)
+
+cp (copia un archivo o carpeta)
+
+cd/name/name  (Cambia a una carpeta específica)
+
+git init (genera un repositorio local, el cual almacena archivos)
+
+git status (dice como es el estado de las carpetas/archivos. Ej: untracked, added, modified)
+
+git add "nombre del archivo" (empieza a hacer seguimiento a archivos/carpetas uno a uno al repositorio)
+
+git add . (empieza a hacer seguimiento a todos los archivos/carpetas automaticamente)
+
+git commit -m (confirmacion de los archivos que estamos agregando)
+
+git log (muestra todos los commits realizados)
+
+git remote add origin + URL de nuestro repositorio (comando para conectar git con github)
+
+git remote -v (para verificar si nuestra conexion a nuestro repositorio en github fue realizada con exito)
+
+git push (se utiliza para enviar archivos a nuestro repositorio en la nube)
+
+git push origin main (se utiliza para indicar que vamos a llevar nuestros archivos de nuestro repositorio local al repositorio remoto e ingresarlos en la rama principal que se llama main)
+
+git clone + URLdelRepositorioRemoto (permite crear una copia exasta de todos los archivos que existen en el repositorio remoto) Este comando solo se ejecuta 1 sola vez
+
+git pull (baja de la nube o actualiza los archivos que se encuentran en el repositorio o que hayan sufrido algun tipo de modificacion)
+
+git pull origin main (para indicarle que queremos traer todo el contenido actualizado de la rama principal)
+
+git branch "nombreDeLaRama" (comando para crear una nueva rama en git)
+
+git branch (para ver las ramas creadas)
+
+git branch -d "nombreDeLaRama"(Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aún no se han fusionado con la rama Main. )
+
+git branch -D (Fuerza la eliminacion de la rama especificada, incluso si tiene cambios sin fusionar)
+
+git checkout nombre_rama (nos permite movernos de rama en rama)
+
+git push origin <branch> (nos permite subir la actualizacion de la rama a GitHub)
+
+git pull origin <branch> (nos permite bajar una actualizacion de como esta la rama actualemente)
+
+git branch nombre de rama a crear
+
+git checkout nombrede de rama para movernos a esa rama
