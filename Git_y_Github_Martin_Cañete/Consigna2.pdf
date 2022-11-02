@@ -1,0 +1,11 @@
+Comandos de Git:
+Para crear un repositorio local: git init
+Para añadir archivos a nuestro repositorio loccal: git add
+Para ver el estados de nuestros archivos: git status
+Para identificarnos con nuestro usuario/email: git config user.name"name" git config user.email"email"
+Para crear una brand: git branch nombre de la branch
+Para movernos entre branchs: git checkout nombre de branch
+Clonar un repositorio remoto: Git Clone URL
+Hacer commits con mensaje sin abrir editor: git commit -m "Mensaje"
+Subir o pushear archivos al repositorio remoto: git push origin brancch a la q queremos subir
+Para ver cambios realizados en un archivo: git diff
