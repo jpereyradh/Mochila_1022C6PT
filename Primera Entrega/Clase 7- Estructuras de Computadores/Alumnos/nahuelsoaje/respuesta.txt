@@ -1,0 +1,3 @@
+matilda usa el amd rayzen 5 3600
+marcelo usa intel i3 3230
+hermano mayor amd a8 9600
