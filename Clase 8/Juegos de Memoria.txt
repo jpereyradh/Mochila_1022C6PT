@@ -1,6 +1,6 @@
 Juegos de Memoria
 
-Ps4 = 6 gb
+Ps4 = 6 gb.
 
 Planta Vs Zombies 0.002 GB
 Code Arms 0.05 Gb
