@@ -1,0 +1,10 @@
+¿quien invento el sistema de cntrol de version Git y porque?
+lo invento linux, porque podia.
+
+¿a quien pertenece actualmente guthub y porque?
+pertenece a microsoft porque lo pudo pagar
+
+¿ hay otra forma que no sea la terminal para trabajar con github?
+si, muchas.
+
+
