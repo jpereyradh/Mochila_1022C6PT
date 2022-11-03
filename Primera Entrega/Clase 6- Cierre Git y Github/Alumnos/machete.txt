@@ -1,0 +1,17 @@
+cd changedirectory. cambia de carpeta y te permite ingresa
+
+mkdir make directory. crear carpetas
+
+cd.. subir carpeta
+
+git clone -clonar repositorios
+
+git branch - crea una rama paralela (que no es la main)
+
+git checkout (nos permite cambiar de rama, agregando el nombre de la misma)
+
+git status (para ver el estado en los que se encuentran nuestros archivos)
+
+git commit -m (para crear commit)
+
+git init (da inicio repositorio local)
