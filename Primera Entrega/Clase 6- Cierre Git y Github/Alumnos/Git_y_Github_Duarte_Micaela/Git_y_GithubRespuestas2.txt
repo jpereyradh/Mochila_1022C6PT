@@ -1,0 +1,12 @@
+git init = crear repositorio loca
+git clone=clonar repositorio de github
+git add= Añadir un archivo del repositorio local al stasion area
+git commit= hace una entrega de lo añadido (add) al stision area al repositorio de github
+git branch (branch)= crea una rama donde puede subir cada colaborador que no quiera alterar el archivo main o master 
+git merge (branch)= permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama.
+git checkout (branch)= Se utiliza para cambiar de branch
+git status= Verifica el estado de los archivos en el git
+git pull origin (branch)= Actualiza los archivos del repositorio local en base a lo subido en el repositorio de la nube
+git push origin (branch)= Comando utilizado para subir los commits a la Nube de github
+git remote -v= Muestra a donde se esta sincronizando el repositorio local
+
