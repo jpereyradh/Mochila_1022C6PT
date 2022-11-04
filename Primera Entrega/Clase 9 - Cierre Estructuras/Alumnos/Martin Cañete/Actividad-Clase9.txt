@@ -1,0 +1,68 @@
+Computadores gama baja
+
+ORDENADOR N1:
+-Procesador: Intel I3 7100
+-Placa Madre:Asrock B150
+-Memoria Primaria: Crucial basics 8G 2666Mhz DDR4
+-Memoria Secundaria :HDD WD Green 500G
+
+ORDENADOR N2: 
+-Procesador: Ryzen 3 2200g
+-Placa Madre: gigabyte ga-a320-h
+-Memoria Primaria: Ccrucial Basics 8g 2666mhz ddr4
+-Memoria Secundaria:HDD-WD Green -500g
+
+
+-ORDENADOR N3:
+-Procesador : Procesador Intel Celeron G4900 3.10GHz 1151 9th Gen OEM
+-Placa Madre:Mother Asrock B360M BULK WIFI
+-Memoria Principal: Memoria GEIL DDR4 8GB 2666MHz EVO POTENZA Red*
+-Memoria Secundaria: Disco Sólido SSD PNY 240GB CS900 Sata 3 2.5
+
+Computadores Gama Media:
+
+ORDENADOR N1:
+-Microprocesador :Micro Intel I5-11400F 4.4Ghz 12Mb S.1200
+-Placa Madre: Motherboard Asus PRIME B560M-A 1200
+-Memoria Primaria:  PNY XLR8 GAMING 8GB 3200Mhz RGB DDR4
+-Memoria Secundaria: Disco Solido SSD 480GB Kingston A400 SATA III
+-Tarjeta Grafica: MSI Nvidia GeForce GT 1030 LP 2GB DDR4 OC
+
+ORDENADOR N2
+Micro procesador: MICRO AMD RYZEN 5 5600X S/VIDEO C/COOLER(x 1)
+Placa Madre:AMD MotherA320M Asrock
+Memoria Principal: MEMORIA 8GB DDR4 3200 KINGSTON FURY BEAST RGB(x 2)
+Memoria Secundaria: DISCO HDD 1TB SATA3 WD PURPLE 
+Placa de video:GEFORCE GTX 1660 SUPER 6GB MSI GAMING X
+
+ORDENADOR N3
+-Procesador: Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler
+-Placa Madre: Mother Asrock B550M Phantom Gaming 4 AM4
+-Memoria Primaria: 2xMemoria GeiL DDR4 8GB 3200MHz Orion RGB Red
+-Memoria Secundaria:Disco Solido SSD Adata 480GB SU650 520MB/s*
+-Tarjeta Grafica:Placa de Video XFX Radeon RX 6700 XT BLACK 12GB GDDR6 SPEEDSTER QICK 319
+
+Computadores Gama Alta:
+
+ORDENADOR N1:
+-Procesador: AMD Ryzen 7 3800xt
+-Placa Madre: Gigabyte B550 Aorus Elite ,
+-Memoria Primaria:Memoria Ram Patriot Viper Steel Series RGB 32GB 3200 Mhz DDR4
+-Memoria Secundaria:SSD M.2 Team 2TB T-Create
+-Tarjeta Grafica:Placa De Video PNY Nvidia Geforce RTX 3090 Ti XLR8 UPRISING
+
+
+ORDENADOR N2:
+-Procesador:Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake
+-Placa Madre: ASUS PRIME H510M-E Socket 1200
+-Memoria Primaria: 2x Memoria Adata DDR4 4GB 2666MHz Value
+-Memoria Secundaria:Disco Solido SSD KingDian 480GB S280 
+-Tarjeta Grafica:Placa de Video GeForce MSI G210 1GB DDR3 Low Profile
+
+
+ORDENADOR N3:
+-Procesador:Procesador Intel Core i7 12700K 5.0GHz Turbo Socket 1700
+-Placa Madre:Mother ASUS TUF Z690-PLUS WIFI Intel 12th Gen S1700 
+-Memoria Primaria:Memoria Team DDR5 32GB (2x16GB) 6400MHz T-Force Delta RGB White
+-Memoria Secundaria:Disco Solido SSD M.2 Team 1TB Cardea A440 7000MB/s NVMe PCI-E Gen4
+-Tarjeta Grafica:Placa de Video ASUS GeForce RTX 3070 Ti 8GB GDDR6 ROG STRIX GAMING OC
