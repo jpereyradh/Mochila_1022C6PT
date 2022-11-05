@@ -9,3 +9,4 @@ Actualmente GitHub pertenece a Microsoft, el mismo lo compro el 4/6/2018. Lo adq
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 
 Si, se necesita una app de Github de escritorio.
+
