@@ -23,13 +23,6 @@ Memoria principal          - Memoria GEIL DDR4 8GB 2666MHz EVO POTENZA Red* x2
 Memoria secundaria         - Disco Sólido SSD M.2 ADATA 256GB XPG S11 Pro 3D5 NAND 3500MB/s NVME PCI-E X4 
 GPU                        - GeForce GT 1030 2GD4 LP OC
 
-Gama media - AMD
-Procesador                 - Ryzen 5 5600g
-Placa madre                - A320M Asrock
-Memoria principal          - Memoria Ram Crucial 8GB 2666 Mhz DDR4
-Memoria secundaria         - Disco Solido SSD 480GB Kingston A400 SATA III
-GPU                        - gtx 1650 4gb nvidia
-
 Gama media Amd
 Procesador                 - Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 Placa madre                - Mother Asrock B450M Pro4-F AM4 R2.0
