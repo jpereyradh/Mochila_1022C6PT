@@ -1,3 +1,4 @@
+
 a.¿quien invento el sistema de control de versiones Git y por que?
 Linus Torvald creo el sistema de versiones Git con la fionalidad de ya no transmitir los cambios en el software con parches 
 o archivos comprimidos. De esta manera manejan el software creado con un sistema de control de versones.
@@ -10,3 +11,6 @@ GitHub pertenece a Microsoft, la adquirio con la finalidad de enfocarse todo lo 
 c.¿Hay otra forma que no sea la terminar para trabajar con Git?
 No es la unica forma de trabajar con git, pero a gran diferencia de las demas interfaces graficas para trabajar con git es que
 estas tengan la dificultad de ejecutar algunos comandos que en la terminal de git se ejecutarian sin ningun inconveniente.
+
+
+probando probando
