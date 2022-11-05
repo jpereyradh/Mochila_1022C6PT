@@ -1,2 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
-Linux torvals creó git y lo creo para 
