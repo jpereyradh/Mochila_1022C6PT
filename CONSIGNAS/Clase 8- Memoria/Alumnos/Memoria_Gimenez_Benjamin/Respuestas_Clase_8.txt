@@ -1,0 +1,36 @@
+Juego                                          Peso
+The Legend of Zelda: Breath of the Wild        13,4 GB
+Mario Kart 8 Deluxe                            7168 MB
+Snipperclips: Cut it Out, Together             1,60 GB
+Disgaea 5                                      5,92 GB
+Puyo Puyo Tetris                               1,09 GB 
+I Am Setsuna                                   1,40 GB
+Dragon Quest Heroes I·II                       0,0000305176 PB
+Nobunaga’s Ambition                            5 GB
+Air Conflicts: Secret Wars                     1572864 KB
+Air Conflicts: Pacific Carriers                1,4 GB
+Block-a-Pix Deluxe                             84,0 MB
+Cuphead                                        3,3 GB
+Gems of War                                    458 MB
+Inferno Climber: Reborn                        1,7 GB
+Istanbul: Digital Edition                      330 MB
+
+Tenemos como limite, 32GB de almacenamiento maximo.
+Dragon Quest Heroes no va a ser posible ya que pesa exactamente 32GB y queremos mas que un solo juego.
+Podremos descargar los siguientes 13 Juegos, dejando el zelda y el dragon quest heroes de lado. 
+
+block a pix
+istanbul
+gems of war
+puyo puyo
+i am setsuna
+air conflicts: pacific carriers
+air conflicts: secret wars
+snipper clips
+inferno climber
+cuphead
+nobunagas
+disgaea
+mario kart
+
+Peso total: 30,942 GB
