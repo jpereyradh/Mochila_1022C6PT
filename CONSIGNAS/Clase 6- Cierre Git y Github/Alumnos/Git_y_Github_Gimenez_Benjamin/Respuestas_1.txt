@@ -1,5 +1,0 @@
-Respuestas:
-           A)Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
-           B)El actual dueño de GitHub es Microsot, que compro la misma por un precio de 7500 millones de dolares.
-           C)Si, se puede usar la pagina de github, en las cuales las funciones son minimas comparadas con la terminal, por lo que siempre se debe trabajar en git bash.
-
