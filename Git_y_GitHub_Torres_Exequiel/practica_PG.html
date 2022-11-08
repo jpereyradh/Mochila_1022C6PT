@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<!--
+
+Memoria principal
+ROM:Es el acrónimo de read only memory o memoria de solo lectura. Como el nombre lo sugiere, solo puede ser leída, no escrita. Guarda las instrucciones necesarias para que la computadora pueda iniciarse
+CACHE: La memoria caché se sitúa entre la CPU y la memoria RAM. La CPU copia en ella los datos más relevantes que va a utilizar de la memoria RAM para acceder a ellos más rápidamente.
+
+Caracteristicas de las memorias RAM:
+Velocidad: Es el tiempo que tarda la RAM en recibir una solicitud del procesador y acceder a la información. La velocidad de una memoria está medida en megahertz (Mhz) o millones de ciclos por segundo.
+Capacidad:Es la cantidad de datos que se pueden almacenar en una RAM. La capacidad se mide en gigabytes (GB).
+Latencia:Es la cantidad de ciclos de reloj que transcurren entre una petición y su respuesta.
+Voltaje:El voltaje hace referencia a la energía consumida por el módulo de RAM.
+
+El sistema de numeración es un conjunto de símbolos y reglas de generación que permiten construir todos los números válidos del sistema.
+
+Dentro del sistema numérico se pueden hacer dos grandes divisiones:
+Sistema numérico no posicional : Son aquellos en los cuales el valor de los símbolos que componen el sistema es fijo, no depende de la posición —por ejemplo, el sistema romano—.
+Sistema numérico posicional : Son aquellos que el valor del símbolo depende del valor que se les ha asignado y de la posición que ocupa el símbolo.
+1 byte: unidad minima de informacion
+1 byte: 8 bits
+1 kilobyte: 1024 bytes
+1 megabyte: 1024 Kbytes
+1 Gigabyte: 1024 MBytes
+1 Terabyte: 1024 GBytes
+1 petabyte: 1024 Tbytes
+1 exabyte: 1024 PBytes
+1 zettabyte: 1024 EBytes
+1 yottabyte: 1024 ZBytes
+
+¿Que es un digito?
+Se define como dígito a cada uno de los símbolos diferentes que constituyen el sistema de numeración
+
+¿Ques es la ram?
+Es el acronimo de random access memory (memoria de acceso aleatorio). La información almacenada en este tipo de memoria se pierde cuando se desconecta la alimentación del PC o del portátil. Se conoce generalmente como memoria principal o memoria temporal o volátil del sistema informático. Es el lugar donde se almacenan temporalmente tanto los datos como los programas la CPU está procesando, o va a procesar, en un determinado momento.
+
+Reloj: es el que le indica a la ram cada cuanto tiempo se le envian datos
+SDRAM: memoria  de acceso aleatorio dinamica y sincronizada
+l1 (nive de la cache) 
+l2 (nive de la cache)
+l3 (nive de la cache)
+l4 (nive de la cache)
+
+Dentro del procesador la informacion se carga en unas celdas muy diminutas y la union de estas forman un registro, el cual es el primer y mas pequeño paso en el eslabon de la memoria y de la informacion.
+
+Cuello de botella: cuando la ram no da abasto para la busqueda de la informacion
+
+
+
+Memoria secundaria: mas lenta pero mas segura.
+Magnetica, optica, solida
+
+
+
+Servidores: sistemas operativos de multiusuario
+
+Sistemas operativos segun licencia:
+open source y propriertary software
+
+open source: permiten modificar, usar y adaptar un S.O. ubuntu y red hard
+
+propriertary software: como windows, limitaciones del propiertario.
+
+Sistemas operativos
+Administración de tareas
+Monotarea
+Multitarea
+
+Administración de usuarios 
+Multiusuario
+Monousuario
+
+Estructura interna
+Monolítica
+Máquina virtual
+
+Jerárquica
+Cliente-Servidor
+
+
+Arquitectura Cliente-Servidor
+Utilizar protocolos asimétricos, donde el servidor se limita a escuchar en espera de que un cliente inicie una solicitud.
+
+El acceso es transparente, multiplataforma y multiarquitectura.
+
+Se facilitará la escalabilidad, de manera que sea fácil añadir nuevos clientes a la infraestructura —escalabilidad horizontal— o aumentar la potencia del servidor o servidores, aumentando su número o su capacidad de cálculo —escalabilidad vertical—.
+
+Paso1:Inicio del servidor —durante el arranque del sistema operativo o con la intervención posterior del administrador del sistema—. Una vez iniciado, espera las solicitudes de los clientes.
+
+paso2: Uno de los clientes realiza una solicitud al servidor.
+
+paso3:El servidor recibe la solicitud, realiza cualquier verificación necesaria y, si todo es correcto, la procesa.
+
+paso4:Cuando el servidor disponga del resultado solicitado, lo envía al cliente.
+
+paso5:El cliente recibe el resultado que solicitó. A continuación realiza las comprobaciones oportunas —en caso de ser necesarias— y, si ese es el objetivo final, se lo muestra al usuario.
+
+Middleware: capa de software que se va a encargar de traducir nuestro pedido para que sea entendido por el servidor
+Dentro de los Middleware tenemos:
+DBMS: sistema de administracion de base de datos que permiten crear, recuperar, actualizar y administrar datos.
+API: interfaz de programacion de aplicaciones que brindan un conjunto de subrutinas, funciones y procedimientos para ser utilizados en otro software.
+
+Datacenter: inmuebles construidos especificamente para albergar sistemas de informacion y comunicacion, los cuales estan debidamente protegidos.
+
+SO: conjunto de programas capaces de administrar recursos fisicos del servidor, asi como los protocolos de ejecucion de otro software.
+
+
+Soporte de red: Es indispensable que tengan un soporte completo para poder brindar conectividad.
+
+Amplia cmpatibilidad con el hardware: 
+Un punto fundamental para el aprovechamiento pleno de las características del servidor es que el S.O. sea capaz de exprimir al máximo las características técnicas del hardware en donde se ejecuta, es por ello que se debe priorizar el uso de S.O. actualizados y con un soporte importante de controladores. Por ejemplo, que nuestros controladores permitan acceder a características avanzadas de gestión de discos rígidos, con el propósito de realizar arreglos redundantes para tener mayor velocidad y tolerancia a fallos.
+
+Seguridad:Teniendo en cuenta el rol que cumple el servidor, es de vital importancia que el S.O. instalado sea seguro; eso implica no solo que este actualizado con todos los parches/actualizaciones, sino que además debe tener aplicadas políticas estrictas de acceso para prevenir accesos no autorizados o ataques. 
+Adicionalmente esa seguridad debe reforzarse con la instalación de Firewalls (por software o hardware) y antivirus. En este ítem también debemos incluir el respaldo de la información, ya sea por medio de herramientas que el propio S.O. nos ofrezca o instalando software externo, con el propósito de tener la menor pérdida de datos posible en caso de fallos fatales.
+
+Tolerancia a fallos: Debemos priorizar S.O. que en su arquitectura permita una tolerancia a fallos, ya sea mediante la generación de granja de servidores, que interconectados, operen como una gran unidad de proceso, dando la posibilidad que ante la caída de uno de los integrantes de la granja, otro puede tomar su rol y responsabilidad.
+
+
+
+
+Manejo diferente del hardware: Debido al diferente propósito, los S.O. de estaciones de trabajo no pueden aprovechar todo el hardware disponible, como, por ejemplo, el manejo de memoria RAM —teniendo el caso de Windows 10 64-bit que puede manejar 6TB de RAM, mientras que Windows Server 2019 alcanza los 24TB—.
+
+Características soportadas: Hay funcionalidades que nativamente un S.O. de estación de trabajo no es capaz de brindar, ya que en su versión de kernel están limitadas o deshabilitadas —casos tales como la virtualización en algunas versiones de Windows 10—.
+
+Soporte: Algo muy importante a tener en cuenta es, cuando nuestro negocio o aplicación depende de un S.O., es el soporte por parte del fabricante/desarrollador. En el caso de los S.O. de estación de trabajo, el soporte/cobertura que tenemos es para un uso específico, si sobre esa base quisiéramos desplegar una arquitectura, por ejemplo, de servidor web, si bien es probable que nos funcione, vamos a carecer de soporte técnico ya que el fabricante nos indicará que para ese propósito esta la version “Server” del producto.
+
+
+
+
+-->
