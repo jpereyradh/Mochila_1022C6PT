@@ -1,0 +1,28 @@
+Los comandos son totalmente diferentes, la interfaz tambien es demasiada diferente.
+
+el comando df es como el comando ls en nuestro sistema operativo actual windows
+df lista los archivos
+top es un comando como que lista los archivos con sus permisos como un ls -ac
+top lista archivos aparentemente
+
+Descripcion del SO
+Como puede ver en este OnWorks Windows 10 en línea, es posible obtener un solo entorno de escritorio de estilo Windows en Ubuntu. No es una imitación perfecta de Windows aquí, sino una evidencia sobre cómo crear una interfaz que se vea y funcione más como Windows. 
+
+
+¿Es open source o con licencia ?
+Es Open Source
+
+¿Cuales son los recursos de Hard que tiene la 
+MV? Si no se pueden ver, buscar requisitos 
+mínimos en internet
+
+¿Cómo se accede a la ventana de comandos?
+a traves del menu de navegacion buscando simbolo de sistema o terminal
+
+¿Puedo instalar aplicaciones?¿Por que?
+No, no es posible debido a que necesitamos credenciales de administradoor.
+
+¿Hay juegos instalados? 
+Si, solitario y otros.
+
+
