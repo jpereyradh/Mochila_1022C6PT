@@ -1,0 +1,50 @@
+ 
+
+Placa madre: ASUS PRIME H510M-E Socket 1200 
+Procesador:   Core i3 7100
+Placa Madre:    ASUS PRIME H510M-E Socket 1200
+Memoria Principal:  Team DDR4 4GB 2400MHz Elite Plus Black
+Memoria secundaria:    Disco Solido SSD KingDian 120GB S280 500MB/s
+
+ 
+Procesador AMD Ryzen 3 3200G 4.0GHz Turbo + Radeon Vega 8 AM4 OEM sin Cooler
+Placa madre; Mother Gigabyte GA-A320M-H AM4
+memoria ram; 2x Memoria Adata DDR4 8GB 2666MHz Premier
+memoria secundaria; Disco Solido SSD KingDian 120GB S280 500MB/s
+
+ 
+Procesador:  Intel Celeron G5905 3.5GHz Socket 1200
+Placa Madre:  ASUS PRIME H510M-E Socket 1200  
+Memoria Principal:  Team DDR4 4GB 2400MHz Elite Plus Black    
+Memoria secundaria:  Disco Solido SSD KingDian 120GB S280 500MB/s
+
+ 
+
+Intel Core i7 10700F 4.8GHz Turbo Socket 1200 Comet Lake Placa Madre:         ASUS PRIME H410M-E Socket 1200 10th Gen Memoria Principal:      Adata DDR4 4GB 2666MHz Value Memoria secundaria:  SSD Adata 120GB SU650SS 520MB Gpu: Geforce GT 1030 2GD4 LP OC
+ 
+Procesador; AMD RYZEN 3 3200G 4.0GHz Turbo + Radeon Vega 8 AM4 Wraith Stealth Cooler Placa Madre;Mother Asrock A320M-HDV R4.0 Ryzen M-ATX Memoria principal;2x Memoria Team DDR4 8GB 2666MHz T-Force Vulcan Z Gray Memoria secundaria;Disco Solido SSD Adata 480GB SU650 520MB/s*
+GPU;Placa de Video Zotac GeForce GTX 1630 4GB GDDR6
+
+
+
+
+ 
+Procesador AMD Ryzen 5 4600G 3.7GHz + Wraith Stealth Cooler AM4   Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.1    Memoria GeiL DDR4 8GB 3200MHz EVO X II RGB  Placa de Video Zotac GeForce GTX 1660 6GB GDDR5 Dual Fan   Disco Sólido SSD PNY 250GB CS900 Sata 3 2.5
+
+ 
+Procesador Intel Core i7 10700F 4.8GHz Turbo Socket 1200 Comet Lake   Mother MSI MEG Z590 ACE Socket 1200   Memora PNY DDR4 8GB 3200MHz XLR8 Epic RGB   Placa de Video ASUS GeForce RTX 3070 Ti 8GB GDDR6X TUF OC   Disco Sólido SSD Gigabyte 1TB 520MB/s SATA 6GB/s
+ 
+
+Procesador AMD Ryzen 7  3800xt   Mother ASUS ROG CROSSHAIR VIII HERO (WI-FI)  2x Memoria Team DDR4 8GB 3200MHz T-Force Delta RGB Black CL16-20-20-40   Placa de Video ASUS GeForce RTX 3080 10GB GDDR6X ROG STRIX GAMING OC
+ Disco Solido SSD KingDian 500GB S280 500MB/s
+
+ 
+
+Procesador Intel Core i9 12900K 5.2GHz Turbo Socket 1700
+ Mother ASUS ROG STRIX Z690-F GAMING WIFI S1700
+Memoria Team DDR5 32GB (2x16GB) 5200MHz T-Force Vulcan Red
+ Memoria Team DDR5 32GB (2x16GB) 6400MHz T-Force Delta RGB Black
+Placa de Video MSI GeForce RTX 3090 24GB GDDR6X GAMING X TRIO
+
+
+
