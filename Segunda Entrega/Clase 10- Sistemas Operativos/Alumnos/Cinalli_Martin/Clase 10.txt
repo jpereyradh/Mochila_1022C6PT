@@ -1,0 +1,6 @@
+1- Es muy sencillo, es ambiente linux, pocas aplicaciones integradas, tiene 4 workspace
+2- Es un software libre y de codigo abierto
+3- RAM 2.6G/Coomon KVM processor x2/Grapshics llvmpipe(LLVM 6.0, 128 bits)OS TYPE 64BIT/Disk 29.0 GB
+4- Apicaciones / Sistem Tools
+5- Si e sposible, pero a traves del comando DNF
+6- No, no hay juegos instalados
