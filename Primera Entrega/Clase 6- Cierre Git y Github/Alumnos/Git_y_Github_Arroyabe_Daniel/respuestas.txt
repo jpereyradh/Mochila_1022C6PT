@@ -1,0 +1,8 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Rta: Linus Torvals fue el creador de git para posibilitar la ramificacion y el etiquetado como procesos de primera importancia y las operaciones que afectan a las ramas.
+
+b. ¿A quien pertenece actualmente Github y porque?
+Rta: Hoy en dia git peretenece a microsoft y lo adquirio para poder unir mas personas al software libre.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Rt: Seria trabajar de manera grafica desde la pagina web de Github
