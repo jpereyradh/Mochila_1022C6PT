@@ -27,8 +27,6 @@ Placa madre	PCI-Express 3.0
 Memoria principal	G.Skill Trident Z RGB 16 GB 
 Memoria secundaria	Crucial MX 500 250 GB 2.5" SSD
 GPU	GeForce GT 1030 2GD4 LP OC
-
-Gama alta
 	
 PC 2	
 Procesador 	Ryzen 5 5600g
