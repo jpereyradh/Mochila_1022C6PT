@@ -1,0 +1,29 @@
+Descripción del SO
+● ¿Es open source o con licencia ?
+● ¿Cuales son los recursos de Hard que tiene la
+MV? Si no se pueden ver, buscar requisitos
+mínimos en internet
+● ¿Cómo se accede a la ventana de comandos?
+● ¿Puedo instalar aplicaciones?¿Por que?
+● ¿Hay juegos instalados?
+● Capturar una imagen del file explorer (ejemplo)
+
+EQUIPO 1-Windows Online Emulator
+Windows Online Emulator es con licencia, pertenece a Windows y es un 
+sistema oeprativo que no permite modificación por usuarios. 
+Requisitos de hardware para Windows Server:
+Mínimo:
+Procesador de 64 bits a 1,4 GHz
+Compatible con el conjunto de instrucciones x64
+Admite DEP y NX
+Admite CMPXCHG16b, LAHF/SAHF y PrefetchW
+Admite la traducción de direcciones de segundo nivel (EPT o NPT)
+512 MB (2 GB para la opción de instalación Servidor con Experiencia de 
+escritorio)
+Tipo ECC (código de corrección de errores) o tecnología similar para 
+implementaciones de host físicos. 
+Se accede a la ventana de comandos haciendo click sobre el icono de la 
+interfaz grafica o buscando la ventana en la lupa del finder. 
+Puedo instalar aplicaciones. 
+Hay juegos instalados.
+
