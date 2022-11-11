@@ -1,0 +1,2 @@
+df informa del espacio usado y del disponible en todos los sistemas de ficheros montados actualmente (de todos los tipos).
+El comando TOP permite conocer información sobre el servidor en tiempo real
