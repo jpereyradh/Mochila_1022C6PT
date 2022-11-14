@@ -1,0 +1,11 @@
+¿Que es un usuario root en Linux?
+El usuario root, el usuario cuyo nombre de inicio es "root", tiene características especiales: Creado durante la instalación: el usuario root es el único usuario predeterminado que crea el programa de instalación. La contraseña predeterminada es "root".
+¿Por que ubuntu no me deja establecer la contraseña durante la instalacion?
+No se debe añadir una contraseña para la cuenta de root. Posee el mecanismo sudo para manejar eso. En su lugar se añaden usuarios a la cuenta “admin” cuenta, se le dan permisos de superusuario a ese usuario, estos pueden ejecutar comandos o programas como root ejecutando sudo command para los comandos de terminal.
+¿Cuales son los procesos tipicos de Linux? ¿Como identificarlos?
+Podríamos definir los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas de LINUX se los puede clasificar en tres grandes categorías:
+Procesos Normales:Los procesos de tipo normal generalmente son lanzados en una terminal (tty) y corren a nombre de un usuario. Osea, son los programas que utiliza el usuario generalmente y se encuentran conectados a una terminal. El programa aparecerá en pantalla y interactuará con el usuario
+Procesos Daemon:Los procesos de tipo Daemon corren a nombre de un usuario y no tienen salida directa por una terminal, es decir corren en 2º plano. Generalmente los conocemos como servicios. La gran mayoría de ellos en vez de usar la terminal para escuchar un requerimiento lo hacen a través de un puerto
+Procesos Zombie: es un proceso que ha completado su ejecución, pero aún tiene una entrada en la tabla de procesos. Esto se debe a que dicho proceso (proceso hijo) no recibió una señal por parte del proceso de nivel superior (proceso padre) que lo creó informándole que su vida útil ha terminado. Se pueden deber a errores de programación, a situaciones no contempladas por el programador y generalmente provocan lentitud y/o inestabilidad en el Sistema.
+
+
