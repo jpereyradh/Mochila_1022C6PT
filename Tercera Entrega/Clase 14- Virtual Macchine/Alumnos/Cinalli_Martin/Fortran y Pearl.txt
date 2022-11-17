@@ -1,0 +1,4 @@
+Es un lenguaje de programación compilado utilizado principalmente en matemáticas y en aplicaciones de cálculo científico.
+Para editar se puede utilizar EMACS, mientras que si necesitamos una librería podemos recurrir a ZOFU.
+
+PERL: Es un lenguaje de programación interpretado utilizado para la manipulación de cadenas de caracteres, archivos y procesos. Uno de los frameworks más utilizados es Mojolicious, y una de sus librerías es CGI.pm
