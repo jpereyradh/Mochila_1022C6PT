@@ -1,0 +1,11 @@
+El usuario root en  Linux es una cuenta predeterminada que tiene privilegios de acceso a todos los ficheros y comandos del sistema. El usuario root es el superusuario que más privilegios tiene en  Linux.
+
+no es necesario añadir una contraseña para la cuenta de root. existe el comando "sudo" para manejar eso. En su lugar, se añaden usuarios a la cuenta admin cuenta. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando sudo command para los comandos de terminal o gksu command para que las aplicaciones GUI se ejecuten como root, como gksu gcalctool.
+
+
+Los principales estados en los que pueden encontrarse los procesos en Linux/Unix son los siguientes:
+running (R) : Procesos que están en ejecución.
+sleeping (S) : Procesos que están esperando su turno para ejecutarse.
+stopped (D) : Procesos que esperan a que se finalice alguna operación de Entrada/Salida.
+zombie (Z) : Procesos que han terminado pero que siguen apareciendo en la tabla de procesos.
+

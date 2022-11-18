@@ -1,0 +1,6 @@
+simple, parece ser liviano, parece un software de oficina. tiene firefox en vez de Edge. tiene un centro de email que se llama evolution en vez outlook.
+tiene un explorador de archivos identico al de mac y rythmbox que es la aplicacion de musica o audio parecido a itunes. 
+tiene una aplicaicion para descargar otras apps parecido al de playstore. dentro de este hay un par de juegos y otras aplicaciones comunes como el clima
+tiene varias extensiones que son parecidas a las de mac y windows.
+
+es open source ya que viene de linux.
