@@ -1,0 +1,27 @@
+Typescript:
+const x: number =4;
+const y: number =5;
+const z: number= x+y;
+
+console.log("el valor de z es "+z)
+1- Compilado
+2- desarrollo de apps
+3-visual code, sublime,Vim, Emacs, Webstorm.
+Parte del Framework Node JS. Parte del Framework React JS
+
+
+Erlang:
+
+-module(helloworld). 
+-export([start/0]). 
+
+start() -> 
+   X = 4, 
+   Y = 5, 
+   Z = X + Y, 
+   io:fwrite("El resultado es ",[Z]).
+
+1- interpretado
+2- se desarrolló originalmente para ser utilizado en varios grandes sistemas de telecomunicaciones de Ericsson.
+3- framework: Chicago Boss  Está disponible para diversos sistemas operativos de tipo Unix y Microsoft Windows.
+
