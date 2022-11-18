@@ -1,0 +1,51 @@
+Lenguaje C#
+
+-Es un lenguaje compilado.
+
+-Sirve para crear aplicaciones de forma sencilla, desde videojuegos hasta aplicaciones web.
+
+-IDE: Microsoft Visual Studio
+-Librería: biblioteca de clases de . NET de forma extensa para controlar tareas
+-comunes de infraestructura.
+-Framework: Net Framework para desarrollar apps para móviles, como Xamarin, que
+permite a los desarrolladores escribir código en C# bajo un entorn
+
+-Sintaxis del lenguaje dado
+
+-using System;
+namespace MyCompiler {
+class Program {
+public static void Main(string[] args) {
+int x,y,z;
+x = 4;
+y = 5;
+z = x + y;
+Console.WriteLine("z = " + z);
+}
+}
+}
+______________________________________________________________________________________________________________________
+-Lenguaje PHP
+
+-Es un lenguaje interpretado.
+
+-Para desarrollar aplicaciones para la web y crear páginas web, favoreciendo la
+conexión entre los servidores y la interfaz de usuario.
+
+-IDE
+1. Eclipse PDT.
+2. Komodo IDE.
+3. Apache NetBeans.
+-Libreria
+1. Librería Estándar de PHP llamada SPL (Standard PHP Library)
+-Framework
+2. Laravel
+3. Symfony
+4. CodeIgniter
+
+-Sintaxis del lenguaje dado
+
+$x = 4;
+$y = 5;
+$z = $x + $y;
+echo "$z\n";
