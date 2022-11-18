@@ -1,0 +1,22 @@
+-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos 
+y en otros no?.
+ 
+<Porque un lenguaje de programacion compila a lenguaje ensablador el cual es ejecutado por
+el sistema operativo, este lenguaje depende de la arquitectura del procesador y la 
+inerpretacion que le da el sistema opertivo.>
+
+-¿Qué tipo de máquina virtual soporta virtualBox?.
+
+<Soporta maquinas virtuales de sistema.>
+
+
+-¿Qué función cumple el hypervisor en la virtualización?
+
+<Un hypervisor permite que el ordenador host pueda soportar varias maquinas virtuales>
+
+
+-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? 
+¿por qué?
+
+<No. Si una maquina virtual falla fallara individualmente ya que es una descarga e 
+instalacion aislada de las demas>
