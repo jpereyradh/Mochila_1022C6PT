@@ -1,0 +1,4 @@
+1- Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador si es que deseas programar en esa máquina con ese sistema operativo.
+2- Es una maquina vitual de sistemas
+3- Un hipervisor es el monitor de máquina virtual que nos permite trabajar con tecnologías de virtualización, un método rápido, cómodo y seguro para ejecución o pruebas de sistemas operativos, aplicaciones, juegos o emuladores, de manera independiente al sistema principal que actúa como anfitrión
+4- Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto
