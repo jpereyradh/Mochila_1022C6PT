@@ -14,4 +14,4 @@
 
 
 - Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
-    Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+	Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
