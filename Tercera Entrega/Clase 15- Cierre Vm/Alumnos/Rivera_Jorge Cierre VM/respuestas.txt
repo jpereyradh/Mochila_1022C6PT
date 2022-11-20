@@ -1,0 +1,11 @@
+Jorge Rivera
+Ejercitación Clase 15
+Respuestas 
+1) Porque el compilador de los lenguajes ensambladores es
+ ejecutado por el sistema operativo, y necesita compatibi-
+lidad con la arquitectura y el procesador. 
+2) La VirtualBox es una maquina virtual de Sistemas. 
+3) No, porque las maquinas virtuales revicen recursos distin-
+tos en la computadora, por lo que no estan vinculadas entre
+si.
+
