@@ -1,0 +1,18 @@
+				en lenguaje C
+#include <stdio.h>
+
+int main() 
+{
+    int x, y;
+    
+    printf("Enter value of x and y\n");
+    scanf("%d%d", &x, &y);
+    
+    printf("addition of %d and %d is %d", x, y, (x+y));
+    
+    return: 0;
+}
+				en lenguaje java
+
+
+
