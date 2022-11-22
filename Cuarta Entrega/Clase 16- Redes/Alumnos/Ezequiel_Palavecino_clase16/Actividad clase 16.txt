@@ -1,0 +1,6 @@
+1 - 	Wifi: Celulares, Smart TV, Notebook
+	Cable: Router/Modem, Computadoras, Impresoras
+2 - 	Planta Alta: Impresoras, computadora, celular, modem, computadora de escritorio
+	Planta Baja: Smart TV, celular, repetidor
+4 - 	En la plata alta, se relizara el cableado uniendo modem con computadora de escritorio, impresora
+5 - 	Si, hace falta un repetidor wifi en la planta alta.
