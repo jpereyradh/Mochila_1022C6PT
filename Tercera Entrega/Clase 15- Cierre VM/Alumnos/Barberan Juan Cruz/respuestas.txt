@@ -1,0 +1,8 @@
+Respuesta 1> Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo,
+ este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+ Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+Respuesta 2> ¿Qué es VirtualBox? VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2,
+ que se utilizar para virtualizar sistemas operativos 
+
+Respuesta 3> No, son maquinas independientes que tienen hardware distinto asignado.
