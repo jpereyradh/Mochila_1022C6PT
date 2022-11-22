@@ -1,0 +1,4 @@
+1) WIFI: Smart TV, Celulares, Impresora y notebook
+   CABLE: Computadoras 
+
+4) colocamos un Repetidor en el primer piso para lograr que llegue la red a todo el primer piso
