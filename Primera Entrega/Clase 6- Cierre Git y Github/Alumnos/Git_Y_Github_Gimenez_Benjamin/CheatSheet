@@ -1,14 +1,3 @@
-Git bash
-
-Repositorio local: es el que tiene todos los archivos (que hayas guardado en él) en nuestra computadora.
-
- commits: son los paquetes que nos van a permitir ir haciendo un seguimiento de los cambios que vamos realizando, dado que cada uno de ellos tiene una timestamp, o fecha de creación, y un autor
-
-
-
-
-
-comandos:
 ls -R
 ls -l (Muestra toda la información de una carpeta: usuario, grupo, permisos, tamaño, fecha y hora de creación.)
 ls -t (comando para ver la lista de archivos y los ultimos modificados o trabajador)
