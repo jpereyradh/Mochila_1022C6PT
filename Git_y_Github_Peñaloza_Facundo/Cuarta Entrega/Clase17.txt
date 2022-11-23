@@ -1,0 +1,11 @@
+Abrir el cmd
+Colocar ipconfig
+
+
+
+Clase publica = Direccion IPV4
+Ip PRIVADA = Puerta enlace predeterminada.
+
+Direccion MAC:
+Colocar comando ipconfig /all
+direccion MAC = Direccion Fisica.

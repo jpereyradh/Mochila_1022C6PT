@@ -1,0 +1,25 @@
+Type Script:
+
+1-Es un lenguaje compilado.
+2-Para el desarrollo de apilcaciones.
+3-Con los sig editores de texto: Sublime Text, Vim, Emacs, Webstorm y el propio Visual Studio Code de Microsoft.
+Se utilizan los framework: Node JS, ReactJS
+4- 
+const x : number = 4;
+const y : number = 5;
+const z : number = x+y;
+
+
+
+console.error("Valor de z= "+z);
+
+ERLANG:
+
+1- Es un lenguaje interpretado.
+
+2- Desarrollar aplicaciones distribuidas.
+
+3- El framework para Erlag Es Phoenix.
+
+4-
+
