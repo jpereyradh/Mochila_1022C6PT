@@ -2,4 +2,6 @@ Respuesta 1> Porque un lenguaje de programación compila a lenguaje ensamblador 
 
 Respuesta 2> ¿Qué es VirtualBox? VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos 
 
-Respuesta 3> No, son maquinas independientes que tienen hardware distinto asignado
+Respuesta 3> ¿Qué función cumple el hypervisor en la virtualización? Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+Respuesta 4> No, son maquinas independientes que tienen hardware distinto asignado
