@@ -1,0 +1,12 @@
+direccion ip publica: 190.223.195.25
+
+direccion ip privada IPv4: 192.165.0.2
+
+direccion mascara subred: 255.255.255.0
+
+direccion mac: 90-60-AF-4A-E7-97
+
+PADLET: https://padlet.com/PedagogiaDH/hyrnyvhu40zf5wk
+
+
+
