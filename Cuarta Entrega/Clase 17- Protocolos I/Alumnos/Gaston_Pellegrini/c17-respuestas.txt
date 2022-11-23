@@ -1,0 +1,8 @@
+- 190.191.20.082
+- IP Privada 190.100.00.0
+- Máscara de subred : 250.150.250.1
+- 20-00-00-CC-FF-05
+
+- Ambas IP son IPv4
+
+- Mi MAC es Intel Corporate
