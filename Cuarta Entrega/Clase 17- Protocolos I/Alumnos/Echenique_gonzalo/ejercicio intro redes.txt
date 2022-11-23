@@ -1,0 +1,15 @@
+Dirección IP Pública
+172.987.654.342
+
+Dirección IP Privada y su Máscara de subred
+ip pr: 193.468.0.191
+ms: 265.285.295.0
+
+Dirección MAC
+F0-2F-73-24-86-85
+
+
+La publica es clase b, y la privada de clase C.
+
+mac placa:
+micro-star intl co.,ltd
