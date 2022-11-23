@@ -1,0 +1,13 @@
+listado de comandos mas usados en la terminal hasta ahora:
+-git clone= es usado para clonar un repositorio remoto
+
+-git pull= es usado para traer la informacion de un repositorio remoto a nuestro repositorio local.
+
+-git push= usado para enviar la informacion commiteada por nosotros al repositorio remoto.
+
+-git init= usado para iniciar un repositorio local.
+
+-git status= usado para revisar el estado del repositorio local, asi se revisa que archivos estan trackeados listos para enviar
+con un push.
+
+

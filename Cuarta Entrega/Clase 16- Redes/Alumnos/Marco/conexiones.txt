@@ -1,0 +1,3 @@
+ambas computadoras van conectadas por cable, la impresora va por cable
+a una computadora, los demas dispositivos van por via wifi.
+si se va a necesitar un repetidor.
