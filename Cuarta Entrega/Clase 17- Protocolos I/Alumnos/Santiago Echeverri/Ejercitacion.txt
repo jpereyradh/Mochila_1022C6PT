@@ -1,0 +1,15 @@
+-Direccion IP publica
+R/:181.137.31.84
+
+-Direccion IP privada
+R/:192.168.1.3
+
+-Mascara de subred
+R/:255.255.255.0
+
+-Direccion MAC
+R/:1E-36-BB-2D-0B-7A
+
+-La IP pública y privada de qué clase son 
+Publica:clase B
+Privada:clase C
