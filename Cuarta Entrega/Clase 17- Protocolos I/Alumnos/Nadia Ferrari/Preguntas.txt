@@ -1,0 +1,5 @@
+¿La IP pública y privada de qué clase son?
+as 2 son clase C.
+¿Qué información puedo obtener de la dirección MAC?
+Su función es indicar a los dispositivos qué parte de la dirección IP es el número de la red, incluyendo la subred, y qué parte es la correspondiente al host.
+Mi Plca de red figura como "Corporación de tecnología Liteon".
