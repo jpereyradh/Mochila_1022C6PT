@@ -1,0 +1,11 @@
+en https://www.cual-es-mi-ip.net/ podemos ver nuestra ip publica
+ 
+ 201.212.126.50 ip publica
+
+con el comando ipconfig /all desde el cmd podemos ver nuestra ip privada.
+en la misma encontramos la subred 
+
+192.168.0.138 ip privada
+255.255.255.0 subred
+
+direccion mac
