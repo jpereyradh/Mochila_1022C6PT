@@ -1,0 +1,19 @@
+IP Pública sin VPN y sin conectar a red TOR:
+167.60.38.2
+
+IP Pública con VPN y sin conectara red TOR:
+77.111.246.21
+
+IP Pública con VPN y conectado a red TOR:
+185.230.106.65
+
+1 - ¿Las ip públicas son las mismas? ¿por qué?
+No, porque al conectarnos a las VPN se nos asigna una IP Pública diferente debido a que el servidor oculta la IP y encripta la comunicación online.
+
+2 - Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin la VPN no puedo ver el video. 
+Teniendo la VPN activada si puedo ver el video.
+Entiendo que lo que sucede es el contenido está bloqueado para la ubicación de MI ISP o proveedor de Internet y sin tener VPN no puedo acceder.
+
+3 - Utilizando Tor ¿pudimos localizar la IP?  
+Si
