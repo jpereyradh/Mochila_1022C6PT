@@ -1,0 +1,9 @@
+ip publica: 186.12.8.183
+ip con VPN opera:77.111.246.42
+ip con tor: 23.129.64.220
+
+la ip publica es distinta ya que se esta localizando desde distintos lugares.
+
+sin vpn no me deja verlo, pero con vpn si puedo verlo. puede ser que sea por la localizacion ya que el video esta solo aprobado para el lugar de la vpn
+
+si, con tor pude localizar la ip
