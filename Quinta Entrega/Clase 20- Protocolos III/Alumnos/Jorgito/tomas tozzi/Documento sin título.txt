@@ -1,0 +1,18 @@
+﻿sin vpn:190.192.205.109    
+
+
+con vpn:77.111.246.4, geolocalización: Estados Unidos, Cheney
+  
+
+
+
+tor:213.164.205.168, No me deja geolocalizar
+  
+
+
+
+No no son las misma, porque el servidor vpn y el navegador tor te otorgan una ip prop
+el ping es la unidad de medida en (milisegundos)que se usa para medir la latencia
+
+
+las velocidades son distintas porque la vpn y el tor funcionan con el servicio de internet que uno paga, entonces al estar geolocalizadas en otros paises, hace que la calidad del internet baje
