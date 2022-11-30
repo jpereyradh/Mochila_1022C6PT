@@ -1,0 +1,49 @@
+Tareas a Realizar:
+
+- En Opera (o cualquier browser sin VPN) debemos consultar nuestra direccion IP
+publica y anotar.
+100.100.20.100 (Me aparece, diferente a las otras; La puesta es inventada)
+
+
+- En Opera con VPN activada debemos consular nuestra ip y consultar su
+geolocalización (podemos hacerlo desde la pagina cual es mi IP) y anotar.
+77.111.246.15 
+
+
+- Con Tor y su red activada, debemos consultar nuestra ip y consultar la
+localización de la misma.
+91.219.236.239
+
+- ¿Las ip públicas son las mismas? ¿por qué?
+No, porque con los respectivos vpn cambiamos nuestra ubicacón aparente redirigiendo el tráfico a través de un servidor que está ubicado en otro lugar
+
+- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+Sin VPN no. Con VPN si porque cambio la ubicación del país y el video tenía restringido el país en el que estamos sin vpn. 
+
+- Utilizando Tor ¿pudimos localizar la IP ?
+Si
+
+-En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el
+ping, anotar estos valores.
+
+Subida:8.85 Bajada:26 - Ping: 23
+
+-En Opera con VPN activada debemos consular nuestra velocidad de subida,
+bajada y el ping, anotando estos valores.
+Subida:9 Bajada:1 - Ping:349
+
+
+-Con Tor y su red activada, debemos consultar nuestra velocidad de subida,
+bajada y el ping, anotando estos valores.
+
+
+-Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Cuando hacemos uso de una conexión VPN, nuestro tráfico en vez de viajar directamente desde nuestro ordenador al destino, sufre un desvío y se ve afectado por diferentes retardos y saturaciones que hacen que la velocidad se reduzca drásticamente
+
+-Que significa el valor del ping?
+El valor del ping es el tiempo que tarda en transmitirse un paquete de datos dentro de la red.
+
+-El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Cuando el tráfico es dirigido a través de un servidor VPN, los paquetes de datos pueden tomar una ruta más directa o con menos carga hacia el servidor del juego, lo cual reduce el ping
+
