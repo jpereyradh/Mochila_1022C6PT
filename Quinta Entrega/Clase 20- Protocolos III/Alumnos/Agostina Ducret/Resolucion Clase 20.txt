@@ -1,0 +1,25 @@
+Ip Publica sin VPN: -----------
+
+Ip Publica con VPN: -----------
+
+Ip Publica con Thor: ---------
+
+Las ip publcias son distintas porque son ip dinamicas y son asignadas por el ISP
+
+Sin vpn no puedo ver el video, con VPN puedo verlo.
+
+Con Tor no me permite localizar la Ip
+
+Velocidad:
+
+sin VPN:47.47 Descarga 8.51 Subida - Ping 13 - 15 - 19
+
+con VPN:5.21 Descarga 0.00 Subida - Ping 206 - 205 - 00
+
+Tor:0.86 Descarga 4.82 Subida - Ping 680 - 2917 - 00
+
+Preguntas
+
+1- son diferentes, porque el servidor demora mas en tomar la reqest
+2- es un indicador que se refiere a la señal enviada a través de la red a otro ordenador, que luego envía su propia señal de vuelta
+3- Si varia, porque son los milisegundos que demora en acceder al servidor.
