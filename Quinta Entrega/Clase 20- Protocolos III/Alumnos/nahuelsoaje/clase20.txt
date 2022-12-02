@@ -1,0 +1,10 @@
+ IP: 77.111.246.49
+País:	Estados Unidos
+Latitud:37.751
+Longitud:-97.822
+ISP:Opera Mini Proxy
+IP tor:193.189.100.204
+La geolocalizacion en tor no se encuentra
+La ip de opera es de clase A y la de tor es de clase C
+Sin utilizar la VPN no puedo ver el video. Con las VPN activas nos permite verlo.
+No nos permite.
