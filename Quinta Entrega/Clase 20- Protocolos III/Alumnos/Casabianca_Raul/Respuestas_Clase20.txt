@@ -1,0 +1,7 @@
+Tu dirección IP es:	181.120.69.150
+País:			Paraguay
+Ciudad:			Asunción
+Latitud:		-25.2869
+Longitud: 		-57.6511
+ISP:			Tigo Paraguay
+
