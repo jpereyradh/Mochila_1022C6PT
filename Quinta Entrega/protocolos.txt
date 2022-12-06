@@ -1,0 +1,41 @@
+FIFA PUERTOS: TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000.
+EPICGAMES: puertos: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000.
+SKIPE: 443/TCP. 3478-3481/UDP. 50000-60000/UDP.
+Spotify: TCP: 80/443/4070
+TeamViewer: TCP y UDP salientes a través del puerto 5983.
+Netflix: utiliza los siguientes puertos: 
+*TCP 1935
+*TCP 80
+*TCP 443
+*UDP 53
+*UDP 1024-2048
+discord: 443 tcp
+Utiliza los puertos UDP y TCP 443
+El puerto predeterminado para el cliente de la API de WhatsApp Business es 5222 . Si ese puerto no está disponible, la aplicación usará como reserva el puerto 443 . El puerto 443 debe estar abierto para HTTPS como mínimo para el registro y los reinicios de la aplicación.
+Spotify: TCP: 80/443/4070
+TeamViewer: TCP y UDP salientes a través del puerto 5983.
+Netflix: utiliza los siguientes puertos: 
+*TCP 1935
+*TCP 80
+*TCP 443
+*UDP 53
+*UDP 1024-2048
+VPN: los puertos que utiliza son
+udp 1194
+tcp 1701
+MySQL: 3306 en UDP y TCP
+GIT: 9418 en UDP Y TCP
+Secure Sockets Layer (SSL): TCP 443 
+HTTP : puerto 80
+OUTLOOK:
+imap 143 o 993
+pop 995 110
+steam El puerto predeterminado para el cliente de la API de WhatsApp Business es 5222 . Si ese puerto no está disponible, la aplicación usará como reserva el puerto 443 . El puerto 443 debe estar abierto para HTTPS como mínimo para el registro y los reinicios de la aplicación.
+el protocolo ftp usa el puerto 20 o 21
+League of Legends Game Client (cliente del juego de League of Legends)	5000 - 5500 UDP
+PVP.Net	5222 TCP
+HTTP Connections (Conexiones HTTP)	80 TCP
+HTTPS Connections (Conexiones HTTPS)	443 TCP
+Spectator Mode (Modo espectador)	8088 UDP and TCP (8088 UDP y TCP)
+la virtual box usa el puerto 80
+Por defecto Angular se ejecuta en el puerto 4200
