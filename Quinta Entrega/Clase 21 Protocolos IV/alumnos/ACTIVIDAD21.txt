@@ -1,0 +1,27 @@
+FIFA PUERTOS: TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000.
+EPICGAMES: puertos: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000.
+SKIPE: 443/TCP. 3478-3481/UDP. 50000-60000/UDP.
+discord: Utiliza los puertos UDP y TCP 443
+El puerto predeterminado para el cliente de la API de WhatsApp Business es 5222 . Si ese puerto no está disponible, la aplicación usará como reserva el puerto 443 . El puerto 443 debe estar abierto para HTTPS como mínimo para el registro y los reinicios de la aplicación.
+Microsoft Word:Se usan puertos TCP/IP y UDP/IP superiores al puerto 1024
+Microsoft Outlook: La mayoría usan 143 o 993 para IMAP, o 110 o 995 para POP. Este es su proveedor de correo electrónico.
+VPN:En el caso de que nuestra VPN utilice el protocolo de código abierto OpenVPN, el puerto que necesitamos será el número 1194 UDP.
+Si, por otro lado, estamos utilizando el protocolo L2TP, lo haremos con el puerto 1701 en TCP.
+Virtual Box : En un sistema Windows, generalmente será un nombre como COM1. Por el contrario, en una máquina Linux, se conectará a /dev/ttyS0 o algo similar. VirtualBox redirigirá todos los datos transmitidos a través del puerto virtual al dispositivo físico
+HTTP: el puerto HTTP que se usa para la comunicación del sistema de cliente a sitio es el puerto 80 y el 443 para HTTPS.
+SSL:es el puerto TCP 443.
+MySQL: 3306 en UDP y TCP
+GIT: 9418 en UDP Y TCP
+GOOGLE MEET:Utiliza los puertos UDP y TCP 443 de salida para el tráfico web o de procesos de autenticación de usuarios.
+STEAM :El puerto predeterminado para el cliente de la API de WhatsApp Business es 5222 . Si ese puerto no está disponible, la aplicación usará como reserva el puerto 443 . El puerto 443 debe estar abierto para HTTPS como mínimo para el registro y los reinicios de la aplicación.
+League Of Legends:(cliente del juego de League of Legends)	5000 - 5500 UDP
+PVP.Net	5222 TCP
+HTTP Connections (Conexiones HTTP)	80 TCP
+HTTPS Connections (Conexiones HTTPS)	443 TCP
+Spectator Mode (Modo espectador)	8088 UDP and TCP (8088 UDP y TCP)
+Angular:Por defecto Angular se ejecuta en el puerto 4200
+
+
+
+
+
