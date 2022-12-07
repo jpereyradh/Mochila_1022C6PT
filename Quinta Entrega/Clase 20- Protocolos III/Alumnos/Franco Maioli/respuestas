@@ -1,0 +1,21 @@
+1.Las ip no son las mismas porque en el buscador de Opera nos conectamos a la VPN
+2. Sin la VPN dice que el video no esta disponible pero cuando nos conectamos con VPN si nos deja visualizarlo, esto se debe a que es la diferencia de pais
+3.No, no se puede localizar la IP.
+
+Sin VPN
+
+Subida:31,44Mbps
+Bajada: 55,89Mbps
+Ping: 80ms
+
+Con VPN
+
+Subida:9.68Mbps
+Bajada:5,80Mbps
+Ping:130ms
+
+Con Tor:
+
+subida:2,60Mbps
+bajada:1,20Mbps
+ping:350ms
