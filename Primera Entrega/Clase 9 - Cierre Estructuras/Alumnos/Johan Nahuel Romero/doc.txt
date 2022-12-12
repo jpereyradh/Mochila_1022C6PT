@@ -1,0 +1,72 @@
+
+Gama baja - Intel
+Procesador          - Core i3 7100
+Placa madre         - GA-H110M-S2PV
+Memoria principal   - Memoria RAM ValueRAM color verde 4GB 1 Kingston
+Memoria secundaria  - Disco duro interno Western Digital WD3200LPVX 320GB azul
+------------------------------
+
+Gama baja - AMD
+Procesador          - Ryzen 3 2200g
+Placa madre         - Motherboard AM4 - Gigabyte GA-B450M DS3H
+Memoria ram         - Memoria Ram Crucial BASICS 4GB 1600 Mhz DDR3
+Memoria secundaria  - Disco rigido blue 250gb
+------------------------------
+
+Gama baja 
+Procesador          - GAMA BAJA - INTEL
+Procesador          - Core i3 7100
+Placa madre         - GA-H110M-S2PV
+Memoria principal   - Memoria RAM ValueRAM color verde 4GB 1 Kingston
+Memoria secundaria  - Disco duro interno Western Digital WD3200LPVX 320GB azul
+
+------------------------------
+
+Gama media - Intel
+Procesador          - Procesador Intel Core i5-12400F BX8071512400F
+Placa madre         - Mother Asrock H610M-HVS LGA 1700
+Memoria principal   - Memoria GEIL DDR4 8GB 2666MHz EVO POTENZA Red* x2
+Memoria secundaria  - Disco Sólido SSD M.2 ADATA 256GB XPG S11 Pro 3D5 NAND 3500MB/s NVME PCI-E X4 
+GPU                 - GeForce GT 1030 2GD4 LP OC
+------------------------------
+
+Gama media - AMD
+Procesador          - Ryzen 5 3400g
+Placa madre         - A320M Asrock
+Memoria principal   - Memoria Ram Crucial 8GB 2666 Mhz DDR4
+Memoria secundaria  - Disco Solido SSD 480GB Kingston A400 SATA III
+GPU                 - gtx 1650 4gb nvidia
+------------------------------
+
+Gama media
+Procesador          - Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler
+Placa madre         - Mother Asrock B450M Pro4-F AM4 R2.0
+Memoria principal   - Memoria Adata DDR4 8GB 3200Mhz XPG Gammix D45 White X2     
+Memoria secundaria  - Disco Solido SSD M.2 WD 500GB WD_Black SN770 5000MB/s NVMe PCI-E x4 Gen 4 
+GPU                 - Placa de Video Zotac GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan
+------------------------------
+
+Gama alta - Intel
+Procesador          - Procesador Intel Core i7 10700 5.0GHz Turbo Socket 1700
+Placa madre         - Mother ASUS ROG MAXIMUS Z690 EXTREME GLACIAL
+Memoria principal   - Memoria Team DDR5 32GB (2x16GB) 6400MHz T-Force Delta RGB Black
+Memoria secundaria  - Disco Solido SSD M.2 Team 4TB Cardea Zero Z340 3400MB/s NVMe PCI-E x4
+GPU                 - Placa de Video Zotac GeForce RTX 4090 24GB GDDR6X Trinity
+------------------------------
+
+Gama alta - AMD
+Procesador          - Amd Ryzen 7 3800xt
+Placa Madre         - tuf x570 plus wifi
+Memoria principal   - RAM 32GB CUADCHANEL 3200Hz
+Memoria secundaria  - SSD  X2 M.2 BARRACUDA 1TB 
+GPU                 - nvidia rtx 3060 ti
+------------------------------
+
+Gama alta
+Procesador          -1 X Procesador AMD Ryzen 9 5900X 4.8GHz Turbo AM4
+Placa Madre         -1 X Mother ASUS ROG STRIX B450-F GAMING II AM4
+Memoria principal   -Memoria Corsair DDR4 DDR4 16GB (2x8GB) 3200MHz Vengance RGB RS
+Memoria secundaria  -Disco Sólido SSD M.2 ADATA 2TB XPG Spectrix S40G RGB 3500MB/s NVMe PCI-E X4
+GPU                 -Placa de Video Zotac GeForce RTX 4090 24GB GDDR6X Trinity
+------------------------------
+
