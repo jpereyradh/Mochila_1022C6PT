@@ -1,0 +1,24 @@
+Opera:
+	IP: 77.111.246.48
+	Ubicacion: Estados Unidos Latitud 37.751 Longitud -97.822
+
+Tor:
+	IP: 107.189.30.86
+	Ubicacion: No da la ubicacion
+
+No son las misma IP, porque se conecta a traves de diferentes ISP a distintos nodos
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?
+
+En opera sin VPN no te deja reproducir y con VPN activada si. Porque se conecta a una IP que tiene habilitada la visualizacion del video
+
+Velocidad
+   Opera con VPN: Subida: 4.27Mbps  Bajada: 1.91 Mbps Ping: 237
+   Opera sin VPN: Subida: 10 Mbps   Bajada: 5.34 Mbps Ping: 180
+   Tor: No me carga.
+
+La diferencia entre con y sin vpn es porque se conecta a proveedores de internet de otro pais 
+Con tor menor porque tiene que pasar por muchos nodos
+
+El valor del tiempo que demora en enviar y recibir respuesta de un paquere. El valor de ping varia entre las diferentes opciones por los servidores a los que se conecta a travez de la vpn.
