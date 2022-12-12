@@ -1,0 +1,12 @@
+Direccion IP PRIVADA: 192.168.0.179
+La ip privada es clase C
+
+Mascara de Subred: 255.255.255.0
+
+
+Direccion mac : D8-BB-C1-43-35-B6
+
+Micro-Star INTL CO., LTD.
+
+
+Direccion IP PUBLICA: 192.168.0.179
