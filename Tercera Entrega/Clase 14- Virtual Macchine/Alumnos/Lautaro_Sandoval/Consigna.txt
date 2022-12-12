@@ -1,0 +1,57 @@
+ Los lenguajes que nos tocaron fueron C# y #PHP
+Respuestas con C# y PHP
+-¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+
+*Es compilado, Los programas de C# se ejecutan en .NET, un sistema de ejecución virtual denominado Common Language Runtime (CLR).
+
+*PHP es procesado en un servicio web por un interprete, por lo que es un lenguaje de ejecucion interpretado
+
+-¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+*C# permite a los desarrolladores crear muchos tipos de aplicaciones seguras y sólidas que se ejecutan en . NET.
+
+*PHP es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario
+
+-¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+*PHP:
+Eclipse PDT.(IDE)
+Komodo IDE.(IDE)
+Apache NetBeans.(IDE)
+Eclipse Che (cloud IDE)
+Laravel: framework
+
+*C#:
+. NET(IDE - librería(bibliotecas))
+Ruby on Rails. framework
+AngularJS. framework
+4.ASP.NET MVC. framework
+Django. framework
+
+-Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+
+*PHP:
+$x = 4;
+$y = 5;
+$z = $x + $y;
+
+echo "$z\n";
+
+
+*C#:
+using System;
+
+namespace MyCompiler {
+    class Program {
+        public static void Main(string[] args) {
+            int x,y,z;
+            
+            x = 4;
+            y = 5;
+            z = x + y;
+           Console.WriteLine("z = " + z);
+           Console.ReadKey();
+        }
+    }
+}
