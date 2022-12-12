@@ -1,0 +1,3 @@
+Direccion MAC: 0A-00-28-35-24-0Z
+
+Mascara de subred: 255.255.255.0

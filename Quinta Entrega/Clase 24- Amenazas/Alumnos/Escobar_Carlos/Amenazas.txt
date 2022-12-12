@@ -1,0 +1,20 @@
+¿Qué tipo de amenaza es?
+
+ransomware 
+
+¿Cómo comienza y cómo se propaga esta amenaza?
+
+Normalmente, su primera acción la realiza a través de un ataque de phishing basado en Emotec, un troyano que cambia su código cada poco tiempo a fin de no ser detectado por las soluciones de seguridad y que tiene la capacidad de interceptar, registrar, y guardar todo el tráfico de red.
+Una vez que Emotec ha realizado su trabajo, empieza el turno de Trickbot, que se encarga de los ataques laterales, entre otros, el robo de las credenciales de inicio de sesión. Una vez que ambos malware han acabado con su labor, Ryuk es el encargado de encriptar todos los datos. La gravedad de éste radica en su capacidad de infección y es que, no sólo encripta los equipos sino también la práctica totalidad de los recursos de la red.
+
+¿Hay más de una amenaza aplicada ?
+
+Si, Emotec y trickbot
+
+¿Qué solución o medida recomendarían ?
+
+se debería aumentar el presupuesto en ciberseguridad porque no es un problema de voluntad de los CISOs sino de presupuesto y del tiempo de reacción contra las amenazas.
+
+
+
+
