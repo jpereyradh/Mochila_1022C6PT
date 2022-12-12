@@ -1,0 +1,8 @@
+¿Las ip públicas son las mismas? ¿por qué?
+Las ip públicas son diferentes: pertenecen a distintas clases. La IP que nos da con el VPN
+activado es de clase A y usando Tor nos da una IP de clase 6.
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e
+intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin utilizar la VPN no puedo ver el video. Con VPN podemos ver el video.
+Utilizando Tor ¿pudimos localizar la IP ?
+No.
