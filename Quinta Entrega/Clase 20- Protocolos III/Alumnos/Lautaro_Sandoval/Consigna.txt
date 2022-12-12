@@ -1,0 +1,12 @@
+-¿Las ip públicas son las mismas? ¿por qué?
+
+*Las direccions IP publicas son diferentes, ya que al utilizar una VPN nuestros datos pasan primero por un servidor VPN.
+
+-Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+
+* Sin utilizar VPN no pude visualizarlo, debido a la limitacion impuesta por nuestra region o provedor de internet, Las VPN nos ayuda a enmascar nuestra dirrecion con la de otra region.
+
+-Utilizando Tor ¿pudimos localizar la IP ?
+
+*No
