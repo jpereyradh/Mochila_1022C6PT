@@ -1,0 +1,14 @@
+1- Listas de elementos:
+Wifi: celulares, smart, notebook,
+Cableados: modem o router, impresora.
+
+2- Ubicar en la casa los dispositivos:
+Planta alta:
+- Computadoras de escritorios, impresoras, notbook, router y celulares.
+Planta baja:
+- Smart y celulares.
+3- Se cablearan los cables en una habitacion junto al modem usada como escritorio.
+
+4- Si, instalaremos un repetidor de Wifi en la planta baja para tener buena señal en planta
+baja, ya que el ruter lo tendremos en planta alta.
+
