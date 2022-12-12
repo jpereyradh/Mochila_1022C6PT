@@ -1,0 +1,8 @@
+en https://www.cual-es-mi-ip.net/ podemos ver nuestra ip publica
+ 
+ Tu dirección IP es 191.107.246.53 ip publica
+
+
+192.168.0.138 ip privada
+255.255.255.0 subred
+

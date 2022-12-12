@@ -1,0 +1,16 @@
+¿Que es un usuario root en Linux?
+El usuario root, el usuario cuyo nombre de inicio es "root", tiene características
+especiales: Creado durante la instalación: el usuario root es el único usuario
+predeterminado que crea el programa de instalación.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+No se debe añadir una contraseña para la cuenta de root. Posee el mecanismo sudo
+para manejar eso. En su lugar se añaden usuarios a la cuenta “admin” cuenta, se le
+dan permisos de superusuario a ese usuario, estos pueden ejecutar comandos o
+programas como root ejecutando sudo command para los comandos de terminal.
+
+¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?.
+Los principales estados en los que pueden encontrarse los procesos en Linux/Unix
+son los siguientes: running (R) : Procesos que están en ejecución. sleeping (S) :
+Procesos que están esperando su turno para ejecutarse. stopped (D) : Procesos que
+esperan a que se finalice alguna operación de Entrada/Salida
