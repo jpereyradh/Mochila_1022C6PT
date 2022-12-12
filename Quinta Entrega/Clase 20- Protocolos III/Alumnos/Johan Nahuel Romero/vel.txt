@@ -1,0 +1,61 @@
+IP(Sin VPN): 190.194.188.111
+País:	Argentina
+Ciudad:	
+Latitud:	-37.4827
+Longitud:	-85.5182
+ISP:	Personal
+
+
+IP: 77.111.246.31
+
+País:	Estados Unidos
+Ciudad: 	
+Latitud:	37.751
+Longitud:	-97.822
+ISP:	Opera Mini Proxy
+
+
+¿Las ip públicas son las mismas? ¿por qué?
+
+-No, en nuestro caso los ultimos digitos son distintos.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+
+-Sin la VPN no es posible ver el video, lo mas probable es que sea por una cuestion de que 
+la region para la cual fue subido.
+
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+
+-No, ya que el navegador TOR no se rige mediante las mismas redes.
+
+
+SPEEDTEST
+
+Opera sin VPN: 
+
+32 Mbps descarga
+26 Mbps subida
+
+Opera con VPN:
+
+28 Mbps descarga
+27 Mbps subida
+
+¿Las velocidades en los test son diferentes? 
+¿Por qué crees que sucede esto?
+
+En mi opinion deben variar para peor por las barreras que interpone
+el VPN o Proxy
+
+
+¿Que significa el valor del ping?
+
+Es una unidad de medida para medir la latencia en ms.
+
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Varia por lo mismo mencionado anteriormente, las barreras generadas
+por el VPN genera mas latencia.
