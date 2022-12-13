@@ -1,0 +1,5 @@
+1- Porque el ensamblador es ejecutado por el sistema operativo y es necesario que haya compatibilidad entre ambos.
+
+2-Es un software de virtualizacion para arquitecturas x86 - AMD64
+
+3- Seguirian funcionando ya que las demas maquinas trabajan a la par pero no conectadas entre si.
