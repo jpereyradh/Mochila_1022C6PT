@@ -1,0 +1,5 @@
+el root es como el modo administrador en windows, permite instalar y realizar
+determinadas actividades.
+
+no permite establecer la contraseña durante la instalacion ya que de 
+instalarse la interfaz grafica no tendria una clave para poner
