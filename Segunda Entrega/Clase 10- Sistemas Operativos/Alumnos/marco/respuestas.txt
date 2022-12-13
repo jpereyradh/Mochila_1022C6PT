@@ -1,0 +1,1 @@
+los comandos brindan las acciones llevandose a cabo en el momento en el SO
