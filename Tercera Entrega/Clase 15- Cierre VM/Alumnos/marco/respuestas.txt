@@ -1,0 +1,5 @@
+porque depende del tipo de texto que permita el sistema operativo
+
+es una maquina virtual para distintos sist operativos
+
+no, porque estan organizadas de forma aislada.
